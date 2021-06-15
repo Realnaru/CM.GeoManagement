@@ -1,0 +1,12 @@
+D:\projects\CM.GeoManagement\CM.GeoManagement\bin\Debug\net5.0\CM.GeoManagement.deps.json
+D:\projects\CM.GeoManagement\CM.GeoManagement\bin\Debug\net5.0\CM.GeoManagement.dll
+D:\projects\CM.GeoManagement\CM.GeoManagement\bin\Debug\net5.0\ref\CM.GeoManagement.dll
+D:\projects\CM.GeoManagement\CM.GeoManagement\bin\Debug\net5.0\CM.GeoManagement.pdb
+D:\projects\CM.GeoManagement\CM.GeoManagement\obj\Debug\net5.0\CM.GeoManagement.csproj.AssemblyReference.cache
+D:\projects\CM.GeoManagement\CM.GeoManagement\obj\Debug\net5.0\CM.GeoManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CM.GeoManagement\CM.GeoManagement\obj\Debug\net5.0\CM.GeoManagement.AssemblyInfoInputs.cache
+D:\projects\CM.GeoManagement\CM.GeoManagement\obj\Debug\net5.0\CM.GeoManagement.AssemblyInfo.cs
+D:\projects\CM.GeoManagement\CM.GeoManagement\obj\Debug\net5.0\CM.GeoManagement.csproj.CoreCompileInputs.cache
+D:\projects\CM.GeoManagement\CM.GeoManagement\obj\Debug\net5.0\CM.GeoManagement.dll
+D:\projects\CM.GeoManagement\CM.GeoManagement\obj\Debug\net5.0\ref\CM.GeoManagement.dll
+D:\projects\CM.GeoManagement\CM.GeoManagement\obj\Debug\net5.0\CM.GeoManagement.pdb
